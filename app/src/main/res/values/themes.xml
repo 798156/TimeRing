@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.StudyFocus" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/pink_primary</item>
+        <item name="colorPrimaryVariant">@color/pink_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/pink_accent</item>
+        <item name="colorSecondaryVariant">@color/pink_deep</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorPrimaryLight">@color/pink_primary_light</item>
+        <item name="android:statusBarColor">@color/pink_primary</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">@color/pink_soft</item>
+    </style>
+
+    <style name="Theme.StudyFocus.Mint" parent="Theme.StudyFocus">
+        <item name="colorPrimary">@color/mint_primary</item>
+        <item name="colorPrimaryVariant">@color/mint_primary_dark</item>
+        <item name="colorSecondary">@color/mint_accent</item>
+        <item name="colorSecondaryVariant">@color/mint_deep</item>
+        <item name="colorPrimaryLight">#FFE8F5E9</item>
+        <item name="android:statusBarColor">@color/mint_primary</item>
+        <item name="android:windowBackground">#FFF1F8E9</item>
+    </style>
+
+    <style name="Theme.StudyFocus.Ocean" parent="Theme.StudyFocus">
+        <item name="colorPrimary">@color/ocean_primary</item>
+        <item name="colorPrimaryVariant">@color/ocean_primary_dark</item>
+        <item name="colorSecondary">@color/ocean_accent</item>
+        <item name="colorSecondaryVariant">@color/ocean_deep</item>
+        <item name="colorPrimaryLight">#FFE3F2FD</item>
+        <item name="android:statusBarColor">@color/ocean_primary</item>
+        <item name="android:windowBackground">#FFE8EAF6</item>
+    </style>
+
+    <style name="Theme.StudyFocus.Sunset" parent="Theme.StudyFocus">
+        <item name="colorPrimary">@color/sunset_primary</item>
+        <item name="colorPrimaryVariant">@color/sunset_primary_dark</item>
+        <item name="colorSecondary">@color/sunset_accent</item>
+        <item name="colorSecondaryVariant">@color/sunset_deep</item>
+        <item name="colorPrimaryLight">#FFFFF3E0</item>
+        <item name="android:statusBarColor">@color/sunset_primary</item>
+        <item name="android:windowBackground">#FFFFF8E1</item>
+    </style>
+
+    <style name="Theme.StudyFocus.Midnight" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/midnight_primary</item>
+        <item name="colorPrimaryVariant">@color/midnight_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">#FF90A4AE</item>
+        <item name="colorSecondaryVariant">#FFB0BEC5</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="colorPrimaryLight">#FF455A64</item>
+        <item name="android:statusBarColor">#FF263238</item>
+        <item name="android:navigationBarColor">#FF263238</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowBackground">#FF37474F</item>
+    </style>
+
+    <style name="DistributionRadio" parent="Widget.MaterialComponents.CompoundButton.RadioButton">
+        <item name="android:textSize">12sp</item>
+        <item name="buttonTint">?attr/colorSecondary</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="GlassDialogTheme" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.4</item>
+    </style>
+</resources>

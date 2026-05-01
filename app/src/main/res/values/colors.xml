@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="pink_primary">#FFF48FB1</color>
+    <color name="pink_primary_dark">#FFF06292</color>
+    <color name="pink_primary_light">#FFFCE4EC</color>
+    <color name="pink_accent">#FFEC407A</color>
+    <color name="pink_deep">#FFD81B60</color>
+    <color name="pink_soft">#FFFDE0E8</color>
+
+    <color name="mint_primary">#FF81C784</color>
+    <color name="mint_primary_dark">#FF66BB6A</color>
+    <color name="mint_accent">#FF43A047</color>
+    <color name="mint_deep">#FF2E7D32</color>
+
+    <color name="ocean_primary">#FF64B5F6</color>
+    <color name="ocean_primary_dark">#FF42A5F5</color>
+    <color name="ocean_accent">#FF1E88E5</color>
+    <color name="ocean_deep">#FF1565C0</color>
+
+    <color name="sunset_primary">#FFFFB74D</color>
+    <color name="sunset_primary_dark">#FFFFA726</color>
+    <color name="sunset_accent">#FFF57C00</color>
+    <color name="sunset_deep">#FFE65100</color>
+
+    <color name="midnight_primary">#FF78909C</color>
+    <color name="midnight_primary_dark">#FF546E7A</color>
+    <color name="midnight_accent">#FF455A64</color>
+    <color name="midnight_deep">#FF37474F</color>
+
+    <color name="bg_light">#FFFDF2F7</color>
+    <color name="card_bg">#FFFFFFFF</color>
+    <color name="text_primary">#FF2D1B2E</color>
+    <color name="text_secondary">#FF9E6F8A</color>
+    <color name="text_hint">#FFD4B8C4</color>
+    <color name="divider">#FFF8E5EE</color>
+
+    <color name="subject_math">#FFF48FB1</color>
+    <color name="subject_word">#FFCE93D8</color>
+    <color name="subject_english">#FFF8BBD0</color>
+    <color name="subject_physics">#FFFFAB91</color>
+    <color name="subject_chemistry">#FFE1BEE7</color>
+    <color name="subject_other">#FFB0BEC5</color>
+
+    <color name="accent_blue">#FFEC407A</color>
+    <color name="accent_light">#FFFCE4EC</color>
+
+    <color name="timer_bg">#FFFDF2F7</color>
+    <color name="timer_text">#FF2D1B2E</color>
+    <color name="btn_start">#FFF48FB1</color>
+    <color name="btn_pause">#FFFFCC02</color>
+    <color name="btn_stop">#FFEC407A</color>
+
+    <color name="gradient_start">#FFF48FB1</color>
+    <color name="gradient_end">#FFEC407A</color>
+</resources>
